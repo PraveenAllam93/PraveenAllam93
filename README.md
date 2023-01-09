@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PraveenAllam93
-- 👀 I’m interested in Blockchain, mathematics.
-- 🌱 I’m currently learning ReactJS, AWS, SpringBoot
+- 👀 I’m interested in Blockchain, mathematics and Data Science
+- 🌱 I’m currently learning ReactJS, AWS, SpringBoot, Data Science.
 - 💞️ I’m looking to collaborate on Blockchain or ReactJS projects
 - 📫 How to reach me praveenallam93@gmail.com
 
