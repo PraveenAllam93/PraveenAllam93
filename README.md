@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ReactJS, AWS, SpringBoot, Data Science.
 - 💞️ I’m looking to collaborate on Blockchain or ReactJS projects
 - 📫 How to reach me praveenallam93@gmail.com
-- Leetcode profile https://leetcode.com/praveen_allam/
+- 🧑🏽‍💻 Leetcode profile https://leetcode.com/praveen_allam/
 
 <!---
 PraveenAllam93/PraveenAllam93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
